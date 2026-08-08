@@ -7,7 +7,7 @@ I always aim to optimize resources, write scalable code, and apply Clean Archite
 🌎 **Languages:** Spanish (Native) | English (B2 / Intermediate)
 
 ### 🔭 Areas of Interest
-*   **Artificial Intelligence:** Implementation of on-device Machine Learning models (TensorFlow Lite) and transfer learning.
+*   **Artificial Intelligence:** Implementation of on-device Machine Learning models and transfer learning.
 *   **Databases:** Architecture, data modeling, and optimization of relational databases (SQL & NoSQL).
 *   **Cybersecurity:** Integrating secure practices into the software development life cycle and infrastructure management.
 *   **Automation:** Workflow orchestration and efficient deployments.
@@ -58,5 +58,5 @@ I always aim to optimize resources, write scalable code, and apply Clean Archite
 ### 🚀 Featured Projects
 
 *   🍃 **[Sigchos Agrotech](https://github.com/alfonso1031/sigchos-agrotech):** Mobile (Flutter) and Web ecosystem for detecting pumpkin leaf diseases using on-device Artificial Intelligence (TensorFlow Lite). Built under Clean Architecture and Firebase.
-*   🟢 **[Slime Escape](https://github.com/alfonso1031/slime-escape):** Top-down 2D game built in just 48 hours for Game Jam Ecuador 2026 by a team of developers and graphic designers. Impulse physics mechanics developed entirely in Godot 4.
+*   🟢 **[Slime Escape](https://github.com/alfonso1031/slime-escape):** Top-down 2D game built in just 48 hours for Game Jam Ecuador 2026 by a team of developers and graphic designers. Impulse physics mechanics developed entirely in Godot 4. Published and playable on itch.io.
 *   🏪 **[AlaSynk](https://alasynk.com):** A software solutions ecosystem featuring a comprehensive **Dental System** for clinic management and a custom **Point of Sale (POS) System** built to optimize administration and cash flow.
