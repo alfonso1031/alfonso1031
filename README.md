@@ -1,4 +1,3 @@
-<!-- Cabecera Animada -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Alfonso+Arroyo+👋;Software+Engineer;Full-Stack+%26+Mobile+Developer;Automation+Enthusiast" alt="Typing SVG" />
@@ -65,7 +64,14 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfonso1031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonso1031&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
 
 <!-- Animación de la Serpiente Comiendo Contribuciones -->
 <div align="center">
