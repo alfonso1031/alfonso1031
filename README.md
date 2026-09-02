@@ -29,34 +29,22 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
   
   **Frontend & Mobile**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,tailwind&theme=dark" />
-  </a>
-  
-  <br><br>
+  </a><br>
   
   **Backend & Databases**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,java,python,postgres,mongodb,supabase&theme=dark" />
-  </a>
-  
-  <br><br>
+  </a><br>
   
   **Infrastructure & Automation**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,linux,github&theme=dark" />
-  </a>
-  <br>
-  <!-- Manteniendo badges tradicionales para tecnologías sin icono en la librería dinámica -->
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
-  
-  <br><br>
+  </a><br>
   
   **Game Dev & AI**<br>
   <a href="https://skillicons.dev">
