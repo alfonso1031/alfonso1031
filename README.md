@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Alfonso+Arroyo+👋;Software+Engineer;Full-Stack+%26+Mobile+Developer;Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Alfonso+Arroyo;Software+Engineer;Full-Stack+%26+Mobile+Developer;Automation+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=400&lines=💻+My+Dynamic+Tech+Stack;Frontend,+Backend,+DevOps+%26+More" alt="Tech Stack" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=400&lines=💻+My+Dynamic+Tech+Stack; Frontend,+Backend,+DevOps+%26+More " alt="Tech Stack" />
   </a>
 </div>
 
