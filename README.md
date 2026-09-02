@@ -21,7 +21,6 @@
 
 ---
 
-<!-- Título de Stack Animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=400&lines=💻+My+Dynamic+Tech+Stack;Frontend,+Backend,+DevOps+%26+More" alt="Tech Stack" />
@@ -59,7 +58,7 @@
 ### 🚀 Featured Projects
 
 *   🍃 **[Sigchos Agrotech](https://github.com/alfonso1031/sigchos-agrotech):** Mobile (Flutter) and Web ecosystem for detecting pumpkin leaf diseases using on-device Artificial Intelligence (TensorFlow Lite). Built under Clean Architecture and Firebase.
-*   🏆 **[Slime Escape](https://github.com/alfonso1031/game_jam):** **1st Place Winner at Game Jam Ecuador 2026!** A top-down 2D game featuring impulse physics mechanics, developed from scratch in just **48 hours** by a team of developers and graphic designers. Engine used: Godot 4. Published and playable on itch.io.
+*   🏆 **[Slime Escape](https://github.com/alfonso1031/game_jam):** **Winning game at Game Jam Ecuador 2026!** A top-down 2D game featuring impulse physics mechanics, developed from scratch in just **48 hours** by a team of developers and graphic designers. Engine used: Godot 4. Published and playable on itch.io.
 *   🏪 **[AlaSynk](https://alasynk.com):** A software solutions ecosystem featuring a comprehensive **Dental System** for clinic management and a custom **Point of Sale (POS) System** built to optimize administration and cash flow.
 
 ---
@@ -67,13 +66,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonso1031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alfonso1031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonso1031&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
-<!-- Animación de la Serpiente Comiendo Contribuciones -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfonso1031/alfonso1031/output/github-contribution-grid-snake-dark.svg">
