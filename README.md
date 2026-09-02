@@ -65,17 +65,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <!-- Tarjetas optimizadas (Usamos un fallback al vercel app general y añadimos la racha animada) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonso1031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfonso1031&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso1031&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+### 📊 GitHub Activity
 
 <!-- Animación de la Serpiente Comiendo Contribuciones -->
 <div align="center">
