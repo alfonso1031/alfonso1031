@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=400&lines=+My+Dynamic+Tech+Stack;1+Frontend+,+Backend,+DevOps+%26+More+1" alt="Tech Stack" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=580&lines=My+Dynamic+Tech+Stack;Frontend,+Backend,+DevOps+%26+More" alt="Tech Stack" />
   </a>
 </div>
 
@@ -63,7 +63,7 @@
 
 ---
 
-### 📊 GitHub PUBLIC Activity
+### 📊 GitHub Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfonso1031/alfonso1031/output/github-contribution-grid-snake-dark.svg">
